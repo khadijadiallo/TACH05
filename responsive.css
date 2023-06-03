@@ -1,0 +1,135 @@
+@media screen and (max-width:596px) {
+    .cart1{
+        width: 80%;
+        margin: auto;
+        height: 200px;
+        font-style: normal;
+        background-color: orange;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: flex-start;
+        position: relative;
+        top:5px
+    }
+    .tel,.loca,.cont{
+        color: white;
+        width: 50%;
+        display: flex;
+        font-weight: 400;
+    }
+    .carte2{
+        width: 80%;
+        margin:auto;
+        background-color: white;
+        position: relative;
+        height: 550px;
+        top: 135px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .jpg{
+        position: relative;
+        top: -100px;
+    }
+     .boutton{
+            text-align: center;
+            width: 150px;
+            height: 30px;
+            border: 1px solid orange;
+            background-color: orange;
+            color: white;
+            position: relative;
+            top: 30px;
+            left: 5px;
+            border-radius: 5px;
+    }
+    .on,.two,.tree{
+        width: 100%;
+    }
+    .bare {
+        display: flex;
+        flex-wrap: wrap;
+    } 
+    .trop{
+        width: 100%;
+    }
+    .nav-menu{
+        width: 100%;
+    }
+    .nav-menu li{
+        padding: 10px;
+    }
+    .lot{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+
+        width: 100%;
+    }
+    .cla ,.tar{
+        width: 100%;
+        margin: 10px auto;
+        padding: 10px;
+    }
+    .grand{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+     }
+     .grand .box{
+        width: 65%;
+        margin: 50px auto;
+        text-align: center;
+     }
+     .chifre{
+        position:absolute;
+        top: 58px;
+        left:23%;
+     }
+     .gnamo,.nano{
+        width: 100%;
+        margin:10px auto;
+     }
+     .part{
+        margin-bottom: 370px;
+        margin-top: 40px;
+     }
+     
+    .do{
+        width: 100%;
+        display: flex;
+        font-size: 20px;
+        color:white;
+    }
+    .vue{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+    }
+    .bas{
+        width: 100%;
+        margin:10px auto;
+    }
+    .footer p{
+        width: 90%;
+        margin: auto;
+    }
+    .part{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 20px;
+        flex-direction: column;
+    }
+    .mere-trait{
+        display:none;
+     
+    }
+    .dirst{
+        width: 100%;
+        display: flex;
+        margin-bottom: 50px;
+       
+    }
+}
